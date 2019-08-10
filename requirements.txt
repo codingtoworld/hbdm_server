@@ -1,0 +1,9 @@
+Twisted
+service_identity
+pyopenssl
+autobahn
+zope.interface
+pyotp
+qrcode
+constants
+requests
