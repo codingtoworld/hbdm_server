@@ -1,5 +1,5 @@
 # 火币合约API交易 服务器端
-> 本服务器端需配合客户端一起使用
+> 本服务器端需配合客户端一起使用，[请看视频了解](https://www.youtube.com/watch?v=BEpTDYT2KsA)
 
 ## 文件结构解析
 ```markdown
